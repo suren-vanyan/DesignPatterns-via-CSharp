@@ -13,7 +13,6 @@ Elements of Reusable Object-Oriented Software is a software engineering book des
 </ul>
 <br>
 
-### Tutorial and my implementation in C# :pushpin:
-
+### Tutorial and my implementation in C# 
 
 
