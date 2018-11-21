@@ -1,6 +1,6 @@
 # DesignPatterns-via-C#
-<p align="center"><img src="http://www.csharptutor.com/Uploads/Originals/design-patterns-in-programming/DisplayImages/3.jpg"></p>
-
+<p align="center"><img src="https://i.ytimg.com/vi/Oyz76pTexGs/maxresdefault.jpg"></p>
+<img class="irc_mi" src="https://i.ytimg.com/vi/Oyz76pTexGs/maxresdefault.jpg" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="304" height="171" style="margin-top: 91px;" alt="Картинки по запросу design pattern via C#">
 
 ### Description :pushpin::pushpin::pushpin:
 
