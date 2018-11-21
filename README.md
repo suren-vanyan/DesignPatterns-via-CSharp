@@ -1,4 +1,4 @@
-# DesignPatterns-via-C#
+# DesignPatterns via C#
 <h1>Приемы объектно-ориентированного проектирования</h1>
 <h3>Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов</h3>
 <p align="Left"><img src="https://i.ytimg.com/vi/Oyz76pTexGs/maxresdefault.jpg" width="404" height="271"></p>
