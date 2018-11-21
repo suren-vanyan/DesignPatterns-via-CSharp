@@ -9,7 +9,7 @@ Elements of Reusable Object-Oriented Software is a software engineering book des
 ### Books :file_folder:
 <ul>
 <li><a href="https://drive.google.com/open?id=0By1MH5wlD0LhLTByR3NUclhKbjQ">:orange_book:Design pattern via C#</a>
-<li><a href="https://drive.google.com/open?id=0By1MH5wlD0LhS2h6eGJDZlF5d00">:green_book:Gamma</a>
+
 </ul>
 <br>
 
@@ -17,7 +17,6 @@ Elements of Reusable Object-Oriented Software is a software engineering book des
 
 Creational     |  Structural  | Behavioral 
 ---------------|--------------|-----------|
-<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Abstract%20Factory">Abstract Factory</a>|	<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Adapter">Adapter</a>     |<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Chain%20of%20Responsibility">Chain of Responsibility</a>
-<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Builder">Builder</a>	       |<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Bridge">Bridge</a>	      |<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Command">Command</a>	
+<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Abstract%20Factory">Abstract Factory</a>|	<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Adapter">Adapter</a>     |<a 
 
 <hr/>
