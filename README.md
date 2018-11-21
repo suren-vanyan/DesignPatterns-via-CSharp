@@ -1,5 +1,5 @@
 # DesignPatterns-via-C#
-<p align="Left"><img src="https://i.ytimg.com/vi/Oyz76pTexGs/maxresdefault.jpg" width="404" height="271"></p>
+<p align="Left"><img src="https://i.ytimg.com/vi/Oyz76pTexGs/maxresdefault.jpg" width="504" height="371"></p>
 
 
 ### Description :pushpin:
