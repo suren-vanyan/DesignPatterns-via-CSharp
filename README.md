@@ -15,8 +15,4 @@ Elements of Reusable Object-Oriented Software is a software engineering book des
 
 ### Tutorial and my implementation in C# :pushpin:
 
-Creational     |  Structural  | Behavioral 
----------------|--------------|-----------|
-<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Abstract%20Factory">Abstract Factory</a>|	<a href="https://github.com/VanHakobyan/DesignPatterns/tree/master/Adapter">Adapter</a>     |<a 
 
-<hr/>
