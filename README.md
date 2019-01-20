@@ -1,4 +1,4 @@
-# :closed_book::point_right: DesignPatterns via C# :heart::muscle::wink::wink:
+# :closed_book::point_right: DesignPatterns via C# :muscle::wink::wink:
 <ul>
 <li><a href="https://drive.google.com/open?id=0By1MH5wlD0LhLTByR3NUclhKbjQ">:airplane: Design pattern via C#</a>
 </ul>
