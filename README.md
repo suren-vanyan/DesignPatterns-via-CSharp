@@ -3,13 +3,21 @@
 <br/>
 **_Design patterns were originally grouped into the categories:[creational patterns]() , [structural patterns](), and [behavioral patterns](), and described using the concepts of delegation, aggregation, and consultation._**
 
-| [Creational patterns]
-(https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Behavioral/AbstractFactory(Creation))  | [Structural patterns]
-(https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Structural/AbstractFactory(Creation))  | [Behavioral patterns] https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Behavioral/AbstractFactory(Creation) |
-| ------------------   | ------------------        | ------------------  |
-| Content Cell         | Content Cell              | Content Cell        |
-| Content Cell         | Content Cell              | Content Cell        |
+Creational Patterns     |  Structural Patterns  | Behavioral Patterns
+---------------|--------------|-----------|
+<a href=" ">Abstract Factory</a>|	<a href=" ">Adapter</a>     |<a href=" ">Chain of Responsibility</a>
+<a href=" ">Builder</a>	       |<a href=" ">Bridge</a>	      |<a href=" ">Command</a>	
+<a href=" ">Factory Method</a> |<a href=" ">Composite</a>	    |<a href=" ">Interpreter</a>	
+<a href=" ">Prototype</a>     |<a href=" ">Decorator</a>	    |<a href=" ">Iterator</a>
+<a href=" ">Singleton</a>      |<a href=" ">Facade</a>	      |<a href=" ">Mediator</a>	
+&nbsp;         |<a href=" ">Flyweight</a>	    |<a href=" ">Memento</a>	
+&nbsp;         |<a href=" ">Proxy</a>        |<a href=" ">Observer</a>
+&nbsp;         |&nbsp;        |<a href=" ">State</a>	
+&nbsp;         | &nbsp;       |<a href=" ">Strategy</a>	
+&nbsp;         |&nbsp;        |<a href=" ">Template</a> 
+&nbsp;         |&nbsp;        |<a href=" ">Visitor</a>
 
+<hr/>
 
 <h1>Приемы объектно-ориентированного проектирования</h1>
 <h3>Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов</h3>
