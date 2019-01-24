@@ -552,6 +552,7 @@
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -687,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suren\\source\\repos\\AbstractFactory(Creation)\\AbstractFactory(Creation)\\AbstractFactory(Creation).csproj",
+      "projectUniqueName": "D:\\GitHub_Projects\\DesignPatterns via C#\\Creational\\AbstractFactory(Creation)\\AbstractFactory(Creation)\\AbstractFactory(Creation).csproj",
       "projectName": "AbstractFactory(Creation)",
-      "projectPath": "C:\\Users\\suren\\source\\repos\\AbstractFactory(Creation)\\AbstractFactory(Creation)\\AbstractFactory(Creation).csproj",
+      "projectPath": "D:\\GitHub_Projects\\DesignPatterns via C#\\Creational\\AbstractFactory(Creation)\\AbstractFactory(Creation)\\AbstractFactory(Creation).csproj",
       "packagesPath": "C:\\Users\\suren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suren\\source\\repos\\AbstractFactory(Creation)\\AbstractFactory(Creation)\\obj\\",
+      "outputPath": "D:\\GitHub_Projects\\DesignPatterns via C#\\Creational\\AbstractFactory(Creation)\\AbstractFactory(Creation)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
