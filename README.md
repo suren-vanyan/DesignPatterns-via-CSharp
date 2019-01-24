@@ -23,6 +23,10 @@ Creational Patterns     |  Structural Patterns  | Behavioral Patterns
 &nbsp;         |&nbsp;        |<a href=" ">Visitor</a>
 
 <hr/>
+<br/>
+![design pattern space purpose scope creational structural behavioral](https://user-images.githubusercontent.com/38188753/51676665-c210be00-1ff0-11e9-962f-ca918dfbf4d8.jpg)
+<br/>
+<hr/>
 
 **_While studying, I used this book, I specifically wrote a description of the book in Russian, because the book was written in Russian._**
 <h1>Приемы объектно-ориентированного проектирования</h1>
