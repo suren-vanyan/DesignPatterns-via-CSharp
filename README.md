@@ -5,7 +5,7 @@
 
 Creational Patterns     |  Structural Patterns  | Behavioral Patterns
 ---------------|--------------|-----------|
-<a href=" ">Abstract Factory</a>|	<a href=" ">Adapter</a>     |<a href=" ">Chain of Responsibility</a>
+<a href=" ">Abstract Factory:white_check_mark:</a>|	<a href=" ">Adapter</a>     |<a href=" ">Chain of Responsibility</a>
 <a href=" ">Builder</a>	       |<a href=" ">Bridge</a>	      |<a href=" ">Command</a>	
 <a href=" ">Factory Method</a> |<a href=" ">Composite</a>	    |<a href=" ">Interpreter</a>	
 <a href=" ">Prototype</a>     |<a href=" ">Decorator</a>	    |<a href=" ">Iterator</a>
