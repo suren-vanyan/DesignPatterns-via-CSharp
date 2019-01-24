@@ -6,7 +6,7 @@
 <br/>
 <hr/>
 
-**_Design patterns were originally grouped into the categories:[creational patterns](https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Creational/AbstractFactory(Creation)) , [structural patterns](https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Structural/AbstractFactory(Creation)), and [behavioral patterns](https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Behavioral/AbstractFactory(Creation)), and described using the concepts of delegation, aggregation, and consultation._**
+**_Design patterns were originally grouped into the categories:[creational patterns](https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Creational/AbstractFactory(Creation)) , [structural patterns](https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Structural/Adapter), and [behavioral patterns](https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Behavioral/AbstractFactory(Creation)), and described using the concepts of delegation, aggregation, and consultation._**
 
 Creational Patterns     |  Structural Patterns  | Behavioral Patterns
 ---------------|--------------|-----------|
