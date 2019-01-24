@@ -1,0 +1,11 @@
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\obj\Debug\netcoreapp2.1\AbstractFactory(Creation).csprojAssemblyReference.cache
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\obj\Debug\netcoreapp2.1\AbstractFactory(Creation).csproj.CoreCompileInputs.cache
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\obj\Debug\netcoreapp2.1\AbstractFactory(Creation).AssemblyInfoInputs.cache
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\obj\Debug\netcoreapp2.1\AbstractFactory(Creation).AssemblyInfo.cs
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\bin\Debug\netcoreapp2.1\AbstractFactory(Creation).deps.json
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\bin\Debug\netcoreapp2.1\AbstractFactory(Creation).runtimeconfig.json
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\bin\Debug\netcoreapp2.1\AbstractFactory(Creation).runtimeconfig.dev.json
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\bin\Debug\netcoreapp2.1\AbstractFactory(Creation).dll
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\bin\Debug\netcoreapp2.1\AbstractFactory(Creation).pdb
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\obj\Debug\netcoreapp2.1\AbstractFactory(Creation).dll
+C:\Users\suren\source\repos\AbstractFactory(Creation)\AbstractFactory(Creation)\obj\Debug\netcoreapp2.1\AbstractFactory(Creation).pdb
