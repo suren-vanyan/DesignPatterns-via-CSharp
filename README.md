@@ -1,6 +1,6 @@
-# :closed_book::point_right: DesignPatterns via C# :muscle::wink::wink:
+# :point_right: DesignPatterns via C# :muscle::wink:
 <ul>
-<li><a href="https://drive.google.com/open?id=0By1MH5wlD0LhLTByR3NUclhKbjQ">:airplane: Design pattern via C#</a>
+<li><a href="https://drive.google.com/open?id=0By1MH5wlD0LhLTByR3NUclhKbjQ">:closed_book::airplane: Design pattern via C#</a>
 </ul>
 
 <h1>Приемы объектно-ориентированного проектирования</h1>
