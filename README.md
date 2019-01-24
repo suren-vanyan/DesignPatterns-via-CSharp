@@ -3,6 +3,11 @@
 <br/>
 **_Design patterns were originally grouped into the categories:[creational patterns]() , [structural patterns](), and [behavioral patterns](), and described using the concepts of delegation, aggregation, and consultation._**
 
+| Creational patterns  | Structural patterns       | Behavioral patterns |
+| ------------------   | ------------------        | ------------------  |
+| Content Cell         | Content Cell              | Content Cell        |
+| Content Cell         | Content Cell              | Content Cell        |
+
 
 <h1>Приемы объектно-ориентированного проектирования</h1>
 <h3>Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов</h3>
