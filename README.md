@@ -5,7 +5,7 @@
 
 | [Creational patterns]
 (https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Behavioral/AbstractFactory(Creation))  | [Structural patterns]
-(https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Structural/AbstractFactory(Creation))       |[Behavioral patterns] https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Behavioral/AbstractFactory(Creation) |
+(https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Structural/AbstractFactory(Creation))  | [Behavioral patterns] https://github.com/suren-vanyan/DesignPatterns-via-CSharp/tree/master/Behavioral/AbstractFactory(Creation) |
 | ------------------   | ------------------        | ------------------  |
 | Content Cell         | Content Cell              | Content Cell        |
 | Content Cell         | Content Cell              | Content Cell        |
